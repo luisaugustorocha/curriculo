@@ -1,0 +1,1 @@
+Este repositório tem como objetivo colocar em prática conhecimentos sobre HTML e CSS, bem como expor conhecimentos e experiências profissionais adquiridas.
